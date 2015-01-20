@@ -1,4 +1,4 @@
-Git is a version control system number.
+Git is version control system number.
 Git is a free software good.
 Git is vrey well and very bad.
 Git is what something.
