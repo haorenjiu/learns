@@ -11,4 +11,5 @@ Creating a new branch is quick & simple.
 Creating a new branch is quick and simple.
 
 >>>>>>> feature2
-zong you shenme shi womensuobuneng 
+zong you shenme shi womensuobuneng
+jin tian shige haorizi haha .
